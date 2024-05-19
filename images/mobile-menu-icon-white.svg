@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.494" height="20.77" viewBox="0 0 28.494 20.77">
+  <g id="Group_1853" data-name="Group 1853" transform="translate(-15 -18)">
+    <g id="Line_362" data-name="Line 362" transform="translate(22.7 19.364)">
+      <path id="Path_2997" data-name="Path 2997" d="M290.343,198.627H271.961a1.206,1.206,0,0,1,0-2.412h18.382a1.206,1.206,0,1,1,0,2.412Z" transform="translate(-270.755 -196.215)" fill="#fff"/>
+    </g>
+    <g id="Line_361" data-name="Line 361" transform="translate(22.7 27.252)">
+      <path id="Path_2998" data-name="Path 2998" d="M290.343,205.912H271.961a1.206,1.206,0,0,1,0-2.412h18.382a1.206,1.206,0,1,1,0,2.412Z" transform="translate(-270.755 -203.5)" fill="#fff"/>
+    </g>
+    <g id="Line_360" data-name="Line 360" transform="translate(22.7 35.153)">
+      <path id="Path_2999" data-name="Path 2999" d="M290.343,213.2H271.961a1.206,1.206,0,1,1,0-2.412h18.382a1.206,1.206,0,1,1,0,2.412Z" transform="translate(-270.755 -210.785)" fill="#fff"/>
+    </g>
+    <g id="Ellipse_287" data-name="Ellipse 287" transform="translate(15 33.947)">
+      <circle id="Ellipse_284" data-name="Ellipse 284" cx="2.412" cy="2.412" r="2.412" fill="#fff"/>
+    </g>
+    <g id="Ellipse_288" data-name="Ellipse 288" transform="translate(15 26.029)">
+      <circle id="Ellipse_285" data-name="Ellipse 285" cx="2.412" cy="2.412" r="2.412" fill="#fff"/>
+    </g>
+    <g id="Ellipse_289" data-name="Ellipse 289" transform="translate(15 18)">
+      <circle id="Ellipse_286" data-name="Ellipse 286" cx="2.5" cy="2.5" r="2.5" fill="#fff"/>
+    </g>
+  </g>
+</svg>
